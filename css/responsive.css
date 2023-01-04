@@ -1,0 +1,206 @@
+@media (min-width: 768px) and (max-width: 992px) {
+    .rated_review {
+        margin-bottom: 13px;
+        margin-left: 0px;
+    }
+    .article-section {
+        padding: 30px 0;
+    }
+    .post-area {
+        padding: 0 0px 0px 0px;
+    }
+    .reportsettinlegal_secion .commonsrvs-list li:before {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+        line-height: 21px;
+        border-radius: 3px;
+    }
+    .counter {
+        position: initial;
+        top: 20px;
+    }
+    .counter .tabs {
+        width: 100%;
+    }
+    .packages-img {
+        margin-top: 25px!important;
+    }
+    .commonsection-pr {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .homefaq-section .accordion-button {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .homefaq-section .accordion-item {
+        min-height: 95px;
+    }
+    .s-numbers {
+        font-size: 39px;
+        min-height: 25px;
+    }
+    .commonsection_text h2 {
+        margin-bottom: 6px;
+        font-size: 1.28rem;
+    }
+    .commonsection_text p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .rated_review {
+        width: 100%!important;
+    }
+}
+
+@media (min-width: 568px) and (max-width: 767px) {
+    .rated_review {
+        margin-bottom: 13px;
+        margin-left: 0px;
+    }
+    .s-numbers {
+        margin-top: 12px;
+    }
+    .homefaq-section .accordion-item {
+        min-height: 95px;
+    }
+    .homefaq-section .accordion-button {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .article-section {
+        padding: 30px 0;
+    }
+    .post-area {
+        padding: 0 0px 0px 0px;
+    }
+    .reportsettinlegal_secion .commonsrvs-list li:before {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+        line-height: 21px;
+        border-radius: 3px;
+    }
+    .counter {
+        position: initial;
+        top: 20px;
+    }
+    .counter .tabs {
+        width: 100%;
+    }
+    .packages-img {
+        margin-top: 25px!important;
+    }
+    .commonsection-pr {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 280px) and (max-width: 567px) {
+    .banner-text h1 {
+        font-size: 30px!important;
+    }
+    .banner-list li {
+        font-size: 13px;
+    }
+    .whydowebdesign .service_panel {
+        margin-left: 40px;
+    }
+    .partner_section {
+        padding: 30px 0px;
+        background: #fff;
+    }
+    ul.partner_list li {
+        width: 100%;
+        padding: 0 0% 30px 0%;
+    }
+    .web_service {
+        padding: 30px 0;
+        padding-top: 0px;
+    }
+    .page-heading h2 {
+        font-size: 1.28rem;
+    }
+    .commonsection_text h2 {
+        margin-bottom: 5px;
+        font-size: 1.28rem;
+    }
+    .commonsection-pr {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .common-cta .cta-box .content h2 {
+        font-size: 25px;
+    }
+    .common-cta .cta-box .content p {
+        margin-bottom: 0px;
+        font-size: 20px;
+        line-height: 31px;
+        margin-top: 20px;
+    }
+    .pt-pb-60 {
+        padding-top: 30px!important;
+        padding-bottom: 30px!important;
+    }
+    .page-heading {
+        margin-bottom: 30px;
+    }
+    .seo-team .coutseo {
+        padding-right: 0px;
+    }
+    .counter {
+        position: initial;
+        top: 10px;
+        left: 0px;
+    }
+    .counter .tabs {
+        width: 100%;
+    }
+    .services_section {
+        padding: 30px 0;
+    }
+    .web_service .page-heading {
+        padding-top: 30px;
+    }
+    .rated_review {
+        margin-bottom: 11px;
+        margin-left: 0px;
+    }
+    .top_rated_cont {
+        font-size: 15px;
+        padding: 8px 0;
+    }
+    .reportsettinlegal_secion h2 {
+        font-size: 1.28rem;
+    }
+    .reportsettinlegal_secion p {
+        font-size: 13px;
+        margin-top: 5px!important;
+    }
+    .common-cta .cta-box .content .btn .btn_8 {
+        padding: 7px 50px;
+    }
+    .page-heading>span {
+        margin-bottom: 4px;
+    }
+    .article-section {
+        padding: 30px 0;
+        padding-top: 0px!important;
+    }
+    .packge-img-inside {
+        margin-top: 30px;
+    }
+    .whydowebdesign .service_panel figure {
+        top: 35%;
+    }
+    .c-p-m-0 {
+        padding-bottom: 0px!important;
+    }
+    figure {
+        margin-bottom: 0px!important;
+    }
+    .s-numbers {
+        margin-top: 12px;
+    }
+}
